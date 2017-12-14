@@ -7,6 +7,7 @@ SJCAM không những tự hào vào việc sáng tạo ra các ActionCamera tuy�
 <a href="https://www.sjcamchinhhang.vn">Sjcamchinhhang.vn</a>&nbsp;là website chính thức duy nhất trưng bày tất cả các sản phẩm camera của SJCAM tại Việt Nam.&nbsp;</p>
 <p><br />
 SJCAM Camera gồm 7&nbsp;dòng chính:</p>
+<p><a href="https://www.sjcamchinhhang.vn/sjcam-sj8-series-2018">SJ8 Star</a>.&nbsp;</p>
 <p><a href="https://www.sjcamchinhhang.vn/sjcam-series">SJ7 Star</a>.&nbsp;</p>
 <p><a href="https://www.sjcamchinhhang.vn/sjcam-series">SJ6 Legend., SJ6 Legend Air</a></p>
 <p>SJ360 VR.</p>
